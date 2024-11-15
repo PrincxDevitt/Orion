@@ -33,8 +33,8 @@ function App() {
 
 const useStyle = makeStyles(() => ({
   root: {
-    /*backgroundColor: "111",*/
-    minHeight: "100vh",
+    minHeight:"100vh",
+    /*backgroundColor: "#111",*/
   },
 }));
 

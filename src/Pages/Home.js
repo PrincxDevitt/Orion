@@ -1,12 +1,13 @@
 
 import { makeStyles } from "@mui/styles";
 import React from "react";
+import Header from "../components/Header";
 
 const Home = () =>{
     const classes = useStyle();
     return (
         <div>
-            home
+            <Header />
         </div>
     )
 }
